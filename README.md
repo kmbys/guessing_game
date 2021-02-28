@@ -1,4 +1,4 @@
-# Gessing Game
+# Guessing Game
 
 TBD
 

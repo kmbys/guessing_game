@@ -1,5 +1,5 @@
 [package]
-name = "gessing_game"
+name = "guessing_game"
 version = "0.1.0"
 authors = ["nsbt"]
 edition = "2018"
